@@ -1,0 +1,9 @@
+//divisible by 2 if the number contains last digit is divisible by 2 then it is dvivisible by 2;
+	// the last 2 digits is isdivisible by 4 then it is siad to be divisible by 4
+	// if the number the last 3 digits is divisible by 8 then it is said to be the number id dividible by 8
+	// dividible by 3 & 9 if the sum of all the digits is divisible by 3 then it is said to be divisible by char32_t
+	// if the sum of all the digits is divisible by 9 then it is said to be divisible by 9
+	// divisible by 6 the number must be divisible by 2 and 3 then it is divisible by 6
+	// dvivisible by 12 then the number must be divisible by 3 and 4 then it is said to be number is divisible by 12
+	//divisible 7 the twice the last digit then subtract the remaining the sum minus twice result after do all the operations perform then the number is divisible by 7 then it is cllaed as divivble by 7
+	// divivble by 11 the sum of even_placed indexs minus odd_indexed_placed if the result is (0) or multiples of 11 then it is dais to be divisible by 11
